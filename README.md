@@ -1,4 +1,4 @@
-#Aprende Totonaco - App Android Nativa
+# Aprende Totonaco - App Android Nativa
 
 App Android desarrollada por hablante nativa de Totonaco para preservación de lengua indígena.
 
